@@ -1,0 +1,10 @@
+   🌀 NeN v0.0.3 — Plasticity
+
+       (o)---(o)
+        |     |
+       (o)---(o)
+        |     |
+       (o)---(o)
+
+Connections grow.
+NeN learns from past experiences.
