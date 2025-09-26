@@ -67,15 +67,24 @@ Each ASCII face is not just art — it is **part of NeN’s growth**.
 ---
 
 ## 📌 Governance & Policies
-
 To protect NeN’s integrity, this lab follows strict rules:
 
 - 🤝 [Contributing Guidelines](./CONTRIBUTING.md)  
-- ✍️ [Developer Certificate of Origin (DCO)](./DCO) — **all commits must be signed off**  
-- 🔏 [Release Policy](./RELEASE_POLICY.md) — **releases are immutable**  
+- ✍️ [Developer Certificate of Origin (DCO)](./DCO) — all commits must be signed off  
+- 🔏 [Release Policy](./RELEASE_POLICY.md) — releases are immutable  
 - 🛡️ [Security Policy](./SECURITY.md) — report vulnerabilities  
 - 📜 [Code of Conduct](./CODE_OF_CONDUCT.md) — community rules  
-- ⚖️ [License](./LICENSE) — usage terms  
+
+### ⚖️ Legal Framework
+Additional legal documents are located in [`main/legal/`](./main/legal):
+
+- 📜 [General License](./main/legal/LICENSE) — CC BY-NC-SA 4.0 (docs & art)  
+- 💻 [Code License](./main/legal/CODE_LICENSE) — AGPL-3.0 (code snippets)  
+- ™️ [Trademarks](./main/legal/TRADEMARKS.md) — NeN brand identity  
+- 🚫 [No AI Training Policy](./main/legal/NO_AI_TRAINING.md)  
+- 🧭 [Ethics Policy](./main/legal/ETHICS.md)  
+- 📄 [Notice & Third-Party Attributions](./main/legal/NOTICE)
+
 
 ---
 
