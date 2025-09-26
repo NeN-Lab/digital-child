@@ -78,12 +78,12 @@ To protect NeN’s integrity, this lab follows strict rules:
 ### ⚖️ Legal Framework
 Additional legal documents are located in [`main/legal/`](./main/legal):
 
-- 📜 [General License](./main/legal/LICENSE) — CC BY-NC-SA 4.0 (docs & art)  
-- 💻 [Code License](./main/legal/CODE_LICENSE) — AGPL-3.0 (code snippets)  
-- ™️ [Trademarks](./main/legal/TRADEMARKS.md) — NeN brand identity  
-- 🚫 [No AI Training Policy](./main/legal/NO_AI_TRAINING.md)  
-- 🧭 [Ethics Policy](./main/legal/ETHICS.md)  
-- 📄 [Notice & Third-Party Attributions](./main/legal/NOTICE)
+- 📜 [General License](./legal/LICENSE) — CC BY-NC-SA 4.0 (docs & art)  
+- 💻 [Code License](./legal/CODE_LICENSE) — AGPL-3.0 (code snippets)  
+- ™️ [Trademarks](./legal/TRADEMARKS.md) — NeN brand identity  
+- 🚫 [No AI Training Policy](./legal/NO_AI_TRAINING.md)  
+- 🧭 [Ethics Policy](./legal/ETHICS.md)  
+- 📄 [Notice & Third-Party Attributions](./legal/NOTICE)
 
 
 ---
