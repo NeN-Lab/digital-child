@@ -105,4 +105,8 @@ The soul of NeN is influenced by pop culture and philosophy:
 
 ---
 
+## 📌 Follow NeN’s journey: 
+X: @NeN_Lab | IG: @nen_lab
+
+---
 *“Not an AI. A Digital Child.”*  
