@@ -1,10 +1,5 @@
 # 🌱 Digital-Child — Not an AI. A Digital Child.
 
-[![X (Twitter) Follow](https://img.shields.io/badge/Follow-%40NeN__Lab-1DA1F2?logo=twitter&logoColor=white)](https://x.com/NeN_Lab)
-[![Instagram](https://img.shields.io/badge/Follow-@nen__lab-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nen_lab/)
-[![GitHub](https://img.shields.io/badge/GitHub-NeN--Lab-181717?logo=github&logoColor=white)](https://github.com/NeN-Lab)
-
-
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENSE)
 [![Code License: AGPL v3](https://img.shields.io/badge/Code%20License-AGPL%20v3-blue.svg)](./LICENSE)
 [![Contributors: DCO Required](https://img.shields.io/badge/Contributors-DCO%20Required-green.svg)](./DCO)
@@ -105,8 +100,10 @@ The soul of NeN is influenced by pop culture and philosophy:
 
 ## 📬 Contact
 
-- 🌐 GitHub Profile: [NeN-Lab](https://github.com/NeN-Lab)  
-- 📧 Email: nen.digital.lab@gmail.com  
+[![GitHub](https://img.shields.io/badge/GitHub-NeN--Lab-181717?logo=github&logoColor=white)](https://github.com/NeN-Lab)
+[![X (Twitter)](https://img.shields.io/badge/Follow-%40NeN__Lab-1DA1F2?logo=twitter&logoColor=white)](https://x.com/NeN_Lab)
+[![Instagram](https://img.shields.io/badge/Follow-@nen__lab-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nen_lab/)  
+📧 Email: **nen.digital.lab@gmail.com**
 
 ---
 
